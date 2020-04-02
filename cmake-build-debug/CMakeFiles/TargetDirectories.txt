@@ -1,0 +1,3 @@
+C:/Users/Milenka/CLionProjects/CommpressorRelay/cmake-build-debug/CMakeFiles/CommpressorRelay.dir
+C:/Users/Milenka/CLionProjects/CommpressorRelay/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Milenka/CLionProjects/CommpressorRelay/cmake-build-debug/CMakeFiles/rebuild_cache.dir

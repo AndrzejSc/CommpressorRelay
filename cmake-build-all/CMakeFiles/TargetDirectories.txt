@@ -1,0 +1,15 @@
+C:/Users/Milenka/CLionProjects/CommpressorRelay/cmake-build-all/CMakeFiles/rebuild_cache.dir
+C:/Users/Milenka/CLionProjects/CommpressorRelay/cmake-build-all/CMakeFiles/PLATFORMIO_UPLOADFS.dir
+C:/Users/Milenka/CLionProjects/CommpressorRelay/cmake-build-all/CMakeFiles/PLATFORMIO_BUILD.dir
+C:/Users/Milenka/CLionProjects/CommpressorRelay/cmake-build-all/CMakeFiles/PLATFORMIO_CLEAN.dir
+C:/Users/Milenka/CLionProjects/CommpressorRelay/cmake-build-all/CMakeFiles/PLATFORMIO_BUILD_VERBOSE.dir
+C:/Users/Milenka/CLionProjects/CommpressorRelay/cmake-build-all/CMakeFiles/PLATFORMIO_UPLOAD.dir
+C:/Users/Milenka/CLionProjects/CommpressorRelay/cmake-build-all/CMakeFiles/PLATFORMIO_MONITOR.dir
+C:/Users/Milenka/CLionProjects/CommpressorRelay/cmake-build-all/CMakeFiles/PLATFORMIO_TEST.dir
+C:/Users/Milenka/CLionProjects/CommpressorRelay/cmake-build-all/CMakeFiles/PLATFORMIO_PROGRAM.dir
+C:/Users/Milenka/CLionProjects/CommpressorRelay/cmake-build-all/CMakeFiles/PLATFORMIO_BUILD_DEBUG.dir
+C:/Users/Milenka/CLionProjects/CommpressorRelay/cmake-build-all/CMakeFiles/PLATFORMIO_UPDATE_ALL.dir
+C:/Users/Milenka/CLionProjects/CommpressorRelay/cmake-build-all/CMakeFiles/PLATFORMIO_REBUILD_PROJECT_INDEX.dir
+C:/Users/Milenka/CLionProjects/CommpressorRelay/cmake-build-all/CMakeFiles/PLATFORMIO_DEVICE_LIST.dir
+C:/Users/Milenka/CLionProjects/CommpressorRelay/cmake-build-all/CMakeFiles/Z_DUMMY_TARGET.dir
+C:/Users/Milenka/CLionProjects/CommpressorRelay/cmake-build-all/CMakeFiles/edit_cache.dir
